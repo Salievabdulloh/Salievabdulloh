@@ -29,6 +29,7 @@ I enjoy turning ideas into functional interfaces, working with APIs, and learnin
 **State Management & Tools**
 
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Redux](https://shields.io)
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
